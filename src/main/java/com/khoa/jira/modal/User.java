@@ -1,4 +1,4 @@
-package com.khoa.jira.model;
+package com.khoa.jira.modal;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
