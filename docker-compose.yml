@@ -5,7 +5,7 @@ services:
     container_name: mysql-9.0
     restart: always
     ports:
-      - "3306:3306"
+      - "3307:3306"
     environment:
       MYSQL_ROOT_PASSWORD: khoa123456
       MYSQL_DATABASE: jiramicroservice

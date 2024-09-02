@@ -1,4 +1,4 @@
-package com.khoa.jira.service;
+package com.khoa.jira.service.Impl;
 
 import com.khoa.jira.modal.User;
 import com.khoa.jira.repository.UserRepository;

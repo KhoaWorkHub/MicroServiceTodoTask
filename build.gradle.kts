@@ -32,7 +32,8 @@ dependencies {
     implementation("io.jsonwebtoken:jjwt-api:0.12.6")
     implementation("io.jsonwebtoken:jjwt-impl:0.12.6")
     implementation("io.jsonwebtoken:jjwt-jackson:0.12.6")
-    implementation("org.flywaydb:flyway-core:10.17.2")
+
+
 
 //    implementation("org.springframework.cloud:spring-cloud-starter-netflix-eureka-client")
     compileOnly("org.projectlombok:lombok")
